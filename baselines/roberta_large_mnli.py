@@ -3,22 +3,29 @@ from tqdm import tqdm
 import json
 from sklearn.metrics import classification_report
 from sklearn.metrics import f1_score
+import argparse
 
-# huggingface==4.0.0
-device = 0
+parser = argparse.ArgumentParser(description='main', formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+parser.add_argument('--test', default='test_stackoverflow', type=str)
+args = parser.parse_args()
+
+device = 7
 classifier = pipeline(task='sentiment-analysis', model='roberta-large-mnli', device=device, return_all_scores=True)
 tokenizer = AutoTokenizer.from_pretrained('roberta-large-mnli')
 
-labels = ['application', 'data_type', 'device', 'library', 'operating_system', 'programming_language']
-articles = ['an', 'a', 'a', 'a', 'an', 'a']
+test_labels = set()
+with open(f'../tmp/{args.test}_pair.json') as fin:
+	for line in fin:
+		data = json.loads(line)
+		test_labels.add(data['type'])
+test_labels = list(test_labels)
+test_labels.sort()
 
-max_paper_len = 450
-max_label_len = 50
-# max_paper_len = 250
-# max_label_len = 250
+max_paper_len = 460
+max_label_len = 48
 y = []
 y_pred = []
-with open('test_pair.json') as fin, open('prediction.json', 'w') as fout:
+with open(f'../tmp/{args.test}_pair.json') as fin, open('roberta_prediction.json', 'w') as fout:
 	for line in tqdm(fin):
 		data = json.loads(line)
 
@@ -29,11 +36,9 @@ with open('test_pair.json') as fin, open('prediction.json', 'w') as fout:
 		entity = data['entity']
 		y.append(data['type'])
 		score = {}
-		for article, label in zip(articles, labels):
+		for label in test_labels:
 			label_text = label.replace('_', ' ')
-			# hypothesis = f'{entity} is {article} {label_text}.'
 			hypothesis = f'In this context, {entity} is referring to {label_text}.'
-			# hypothesis = data['text'].replace(entity, label_text)
 			tokens = tokenizer(hypothesis, truncation=True, max_length=max_label_len)
 			hypothesis = tokenizer.decode(tokens["input_ids"][1:-1])
 			input = f'{text} </s></s> {hypothesis}'
@@ -45,8 +50,8 @@ with open('test_pair.json') as fin, open('prediction.json', 'w') as fout:
 		data['prediction'] = score_sorted[0][0]
 		fout.write(json.dumps(data)+'\n')
 
-report = classification_report(y, y_pred, target_names=labels, output_dict=True)
-with open('report.txt', 'a') as fout:
+report = classification_report(y, y_pred, output_dict=True)
+with open('roberta_report.txt', 'w') as fout:
 	for x in report:
 		if x == 'accuracy':
 			f1 = report[x]
@@ -61,7 +66,6 @@ with open('report.txt', 'a') as fout:
 			supp = report[x]['support']
 			out = f'{x}\t{prec}\t{rec}\t{f1}\t{supp}\n'
 		fout.write(out)
-	fout.write('\n')
 	
 print(f1_score(y, y_pred, average='micro'))
 print(f1_score(y, y_pred, average='macro'))

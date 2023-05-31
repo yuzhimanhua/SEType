@@ -1,0 +1,10 @@
+application browser mysql git chrome excel visual_studio
+data_structure array list table queue
+data_type string strings integer pointer character char
+device mac port mouse cpu disk
+library jquery api angular django spring
+library_class exception datagrid asynctask arraylist set
+operating_system windows android linux ios ubuntu
+programming_language javascript java php html c++ sql python
+user_interface_element button image page cell menu window
+website google github microsoft facebook stackoverflow

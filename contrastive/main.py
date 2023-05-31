@@ -144,16 +144,10 @@ if __name__ == '__main__':
 	set_seed(args)
 
 	if args.train_batch_size == 0:
-		if args.architecture == 'bi':
-			args.train_batch_size = 8
-		elif args.architecture == 'cross':
-			args.train_batch_size = 4
+		args.train_batch_size = 4
 	
 	if args.eval_batch_size == 0:
-		if args.architecture == 'bi':
-			args.eval_batch_size = 256
-		elif args.architecture == 'cross':
-			args.eval_batch_size = 128
+		args.eval_batch_size = 64
 
 	MODEL_CLASSES = {
 		'bert': (BertConfig, BertTokenizerFast, BertModel),
@@ -172,7 +166,7 @@ if __name__ == '__main__':
 	if not args.eval:
 		train_dataset = SelectionDataset(os.path.join(args.train_dir, 'train.txt'),
 										 context_transform, response_transform, concat_transform, sample_cnt=None, mode=args.architecture)
-		val_dataset = SelectionDataset(os.path.join(args.train_dir, 'dev.txt'),
+		val_dataset = SelectionDataset(os.path.join(args.train_dir, 'valid.txt'),
 									   context_transform, response_transform, concat_transform, sample_cnt=1000, mode=args.architecture)
 		train_dataloader = DataLoader(train_dataset, batch_size=args.train_batch_size, collate_fn=train_dataset.batchify_join_str, shuffle=True, num_workers=0)
 		t_total = len(train_dataloader) // args.gradient_accumulation_steps * args.num_train_epochs

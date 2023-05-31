@@ -1855,7 +1855,7 @@ name O
 there O
 is O
 no O
-HTML B-Language
+HTML B-Programming_Language
 output O
 , O
 which O
@@ -2190,14 +2190,14 @@ incorrectly O
 94c03f6 O
 
 Added O
-TypeScript B-Language
+TypeScript B-Programming_Language
 typings O
 . O
 
 0e18865 O
 
 Added O
-TypeScript B-Language
+TypeScript B-Programming_Language
 recipe O
 . O
 
@@ -2475,7 +2475,7 @@ completely O
 written O
 in O
 AnyCPU O
-C# B-Language
+C# B-Programming_Language
 . O
 
 Why O
@@ -2967,7 +2967,7 @@ use O
 this O
 library O
 with O
-swift B-Language
+swift B-Programming_Language
 3 O
 . O
 
@@ -3190,7 +3190,7 @@ ffprobe B-Application
 does O
 not O
 produce O
-xml B-Language
+xml B-Programming_Language
 fields O
 with O
 the O
@@ -3646,7 +3646,7 @@ annotation O
 Usage O
 
 Install O
-ruby B-Language
+ruby B-Programming_Language
 and O
 this O
 gem O
@@ -5533,7 +5533,7 @@ Boolean B-Data_Type
 Should O
 return O
 plain O
-javascript B-Language
+javascript B-Programming_Language
 objects B-Data_Structure
 instead O
 of O
@@ -6074,8 +6074,8 @@ Repository_Link O
 https://github.com/clarenceb/tdd_go_logo O
 
 TDD O
-Go B-Language
-Logo I-Language
+Go B-Programming_Language
+Logo I-Programming_Language
 
 This O
 project O
@@ -6088,7 +6088,7 @@ TDD O
 exercise O
 in O
 using O
-Go B-Language
+Go B-Programming_Language
 . O
 
 It O
@@ -6112,10 +6112,10 @@ Idea O
 Create O
 a O
 basic O
-Logo B-Language
+Logo B-Programming_Language
 interpreter O
 in O
-Go B-Language
+Go B-Programming_Language
 lang O
 . O
 
@@ -6151,7 +6151,7 @@ X I-Operating_System
 as O
 a O
 real O
-Logo B-Language
+Logo B-Programming_Language
 implementation O
 and O
 to O
@@ -6169,7 +6169,7 @@ a O
 handy O
 reference O
 for O
-Logo B-Language
+Logo B-Programming_Language
 commands O
 and O
 usage O
@@ -6247,7 +6247,7 @@ Setup O
 : O
 
 Install O
-Go B-Language
+Go B-Programming_Language
 lang O
 and O
 set O
@@ -6340,7 +6340,7 @@ use O
 
 Support O
 more O
-Logo B-Language
+Logo B-Programming_Language
 commands O
 
 Repository_Name O
@@ -6627,7 +6627,7 @@ for O
 annotation O
 ) O
 
-golang B-Language
+golang B-Programming_Language
 version O
 is O
 1.9.2 O
@@ -6673,7 +6673,7 @@ https://github.com/rgeo/rgeo-activerecord/issues/11 O
 
 
 Added O
-Ruby B-Language
+Ruby B-Programming_Language
 2.1.0 O
 to O
 the O
@@ -6705,7 +6705,7 @@ to O
 run O
 across O
 different O
-Ruby/ActiveRecord B-Language
+Ruby/ActiveRecord B-Programming_Language
 combinations O
 . O
 
@@ -6801,7 +6801,7 @@ not O
 run O
 the O
 same O
-sql B-Language
+sql B-Programming_Language
 commands O
 , O
 etc O
@@ -7701,7 +7701,7 @@ context O
 
 [ O
 ] O
-php B-Language
+php B-Programming_Language
 context O
 
 Repository_Name O
@@ -8355,9 +8355,9 @@ Provided O
 Materials O
 
 basic O
-HTML B-Language
+HTML B-Programming_Language
 and O
-CSS B-Language
+CSS B-Programming_Language
 
 JSON O
 list B-Data_Structure
@@ -8432,7 +8432,7 @@ completely O
 
 Code O
 basic O
-CSS B-Language
+CSS B-Programming_Language
 for O
 page O
 . O
@@ -8521,7 +8521,7 @@ continue O
 working O
 on O
 the O
-CSS B-Language
+CSS B-Programming_Language
 for O
 this O
 project O
@@ -8559,7 +8559,7 @@ or O
 add O
 to O
 the O
-HTML B-Language
+HTML B-Programming_Language
 as O
 necessary O
 for O
@@ -8573,7 +8573,7 @@ Lesson O
 
 Write O
 a O
-JS B-Language
+JS B-Programming_Language
 form O
 handler O
 function O
@@ -8677,7 +8677,7 @@ Lesson O
 : O
 
 Write O
-Javascript B-Language
+Javascript B-Programming_Language
 function O
 that O
 toggles O
@@ -8694,7 +8694,7 @@ cart O
 . O
 
 Add/edit O
-HTML B-Language
+HTML B-Programming_Language
 as O
 necessary O
 to O
@@ -8716,7 +8716,7 @@ Lesson O
 : O
 
 Write O
-CSS B-Language
+CSS B-Programming_Language
 that O
 uses O
 media O
@@ -8759,7 +8759,7 @@ Lesson O
 : O
 
 Write O
-Javascript B-Language
+Javascript B-Programming_Language
 that O
 causes O
 the O
@@ -8784,7 +8784,7 @@ changes O
 . O
 
 Write O
-Javascript B-Language
+Javascript B-Programming_Language
 that O
 displays O
 the O
@@ -8805,9 +8805,9 @@ console B-Application
 
 Update O
 the O
-HTML B-Language
+HTML B-Programming_Language
 and O
-CSS B-Language
+CSS B-Programming_Language
 as O
 necessary O
 to O
@@ -8990,7 +8990,7 @@ Challenge O
 Dynamically O
 generate O
 the O
-HTML B-Language
+HTML B-Programming_Language
 for O
 product O
 listings O
@@ -9759,7 +9759,7 @@ minimize O
 dependencies O
 . O
 
-PHP B-Language
+PHP B-Programming_Language
 ships O
 with O
 the O
@@ -10076,7 +10076,7 @@ the O
 string B-Data_Type
 as O
 an O
-XHTML B-Language
+XHTML B-Programming_Language
 fragment O
 , O
 so O
@@ -10177,7 +10177,7 @@ the O
 core O
 to O
 be O
-html-based B-Language
+html-based B-Programming_Language
 so O
 it O
 can O
@@ -10577,7 +10577,7 @@ libstdc++ O
 libxml2-devel.i686 O
 
 Install O
-PERL B-Language
+PERL B-Programming_Language
 modules O
 necessary O
 for O
@@ -11697,7 +11697,7 @@ is O
 recommended O
 to O
 install O
-coffeescript B-Language
+coffeescript B-Programming_Language
 through O
 npm B-Application
 ( O
@@ -11728,7 +11728,7 @@ an O
 old O
 version O
 of O
-coffeescript B-Language
+coffeescript B-Programming_Language
 . O
 
 In O
@@ -11748,14 +11748,14 @@ changed O
 between O
 verions O
 of O
-coffeescript B-Language
+coffeescript B-Programming_Language
 
 Back O
 end O
 
 This O
 requires O
-ruby B-Language
+ruby B-Programming_Language
 2.0 O
 . O
 
@@ -11778,7 +11778,7 @@ package O
 name O
 is O
 usually O
-ruby2.0 B-Language
+ruby2.0 B-Programming_Language
 . O
 
 Use O
@@ -11789,7 +11789,7 @@ ruby O
 to O
 change O
 the O
-ruby B-Language
+ruby B-Programming_Language
 version O
 that O
 /usr/bin/ruby O
@@ -11846,7 +11846,7 @@ you O
 do O
 n't O
 have O
-ruby B-Language
+ruby B-Programming_Language
 2.x O
 . O
 
@@ -12552,7 +12552,7 @@ method O
 only O
 exists O
 in O
-Python B-Language
+Python B-Programming_Language
 3.3 O
 + O
 . O
@@ -12570,7 +12570,7 @@ beginning O
 I O
 started O
 with O
-Python B-Language
+Python B-Programming_Language
 3 O
 . O
 
@@ -12589,7 +12589,7 @@ script O
 to O
 work O
 with O
-Python B-Language
+Python B-Programming_Language
 2 O
 , O
 but O
@@ -12654,7 +12654,7 @@ a O
 number O
 
 Using O
-Python B-Language
+Python B-Programming_Language
 3.3 O
 on O
 a O
@@ -13206,7 +13206,7 @@ some O
 cases O
 , O
 your O
-python B-Language
+python B-Programming_Language
 installation O
 might O
 be O
@@ -13250,7 +13250,7 @@ terminate O
 . O
 
 A O
-Python B-Language
+Python B-Programming_Language
 runtime O
 could O
 not O
@@ -13267,7 +13267,7 @@ a O
 framework O
 build O
 of O
-Python B-Language
+Python B-Programming_Language
 , O
 or O
 edit O
@@ -13292,7 +13292,7 @@ make O
 sure O
 you O
 have O
-python B-Language
+python B-Programming_Language
 2.7 O
 installed O
 . O
@@ -13318,7 +13318,7 @@ tell O
 you O
 where O
 your O
-python B-Language
+python B-Programming_Language
 is O
 located O
 . O
@@ -13358,7 +13358,7 @@ the O
 location O
 of O
 your O
-python B-Language
+python B-Programming_Language
 installation O
 ( O
 likely O
@@ -13490,7 +13490,7 @@ to O
 have O
 : O
 
-Python B-Language
+Python B-Programming_Language
 ( O
 version O
 2.7 O
@@ -13498,7 +13498,7 @@ or O
 later O
 , O
 including O
-python B-Language
+python B-Programming_Language
 3) O
 
 Dendropy B-Library
@@ -13521,7 +13521,7 @@ have O
 it O
 ) O
 
-Java B-Language
+Java B-Programming_Language
 ( O
 only O
 required O
@@ -19282,7 +19282,7 @@ minimize O
 dependencies O
 . O
 
-PHP B-Language
+PHP B-Programming_Language
 ships O
 with O
 the O
@@ -19396,7 +19396,7 @@ keep O
 close O
 to O
 what O
-PHP B-Language
+PHP B-Programming_Language
 ships O
 with O
 
@@ -19445,7 +19445,7 @@ Composer B-Application
 induces O
 a O
 constraint O
-PHP B-Language
+PHP B-Programming_Language
 >= O
 5.3.2 O
 constraint O
@@ -19455,7 +19455,7 @@ takes O
 that O
 further O
 to O
-PHP B-Language
+PHP B-Programming_Language
 >= O
 5.5.9 O
 
@@ -20288,7 +20288,7 @@ Repository_Link O
 : O
 https://github.com/rcfbanalysis/rcfbscraper O
 
-R B-Language
+R B-Programming_Language
 CFB O
 data O
 scraper O
@@ -20564,7 +20564,7 @@ CLI B-Application
 one O
 would O
 expect O
-HTML B-Language
+HTML B-Programming_Language
 markup O
 to O
 be O
@@ -21892,7 +21892,7 @@ ago O
 , O
 which O
 changes O
-HTML B-Language
+HTML B-Programming_Language
 output O
 , O
 causing O
@@ -23011,7 +23011,7 @@ and O
 the O
 rest O
 is O
-javascript B-Language
+javascript B-Programming_Language
 logic O
 . O
 
@@ -25228,7 +25228,7 @@ command O
 
 added O
 Net::SNMP B-Library
-Perl B-Language
+Perl B-Programming_Language
 module O
 for O
 SNMP B-Application
@@ -25299,7 +25299,7 @@ Buttons B-User_Interface_Element
 made O
 in O
 pure O
-CSS B-Language
+CSS B-Programming_Language
 based O
 on O
 
@@ -25422,7 +25422,7 @@ to O
 split O
 the O
 main O
-CSS B-Language
+CSS B-Programming_Language
 to O
 have O
 separate O
@@ -26201,7 +26201,7 @@ with O
 both O
 Node.js B-Application
 and O
-Go B-Language
+Go B-Programming_Language
 primitives O
 , O
 however O
@@ -26295,7 +26295,7 @@ for O
 annotation O
 ) O
 
-Go B-Language
+Go B-Programming_Language
 
 WIP O
 
@@ -27215,7 +27215,7 @@ the O
 client B-Application
 side I-Application
 with O
-javascript B-Language
+javascript B-Programming_Language
 
 All O
 in O
@@ -27727,7 +27727,7 @@ the O
 firmware O
 and O
 the O
-Python B-Language
+Python B-Programming_Language
 library O
 . O
 
@@ -27921,7 +27921,7 @@ I O
 'm O
 new O
 to O
-python B-Language
+python B-Programming_Language
 , O
 but O
 I O
@@ -28008,7 +28008,7 @@ no O
 experience O
 with O
 processing O
-xml B-Language
+xml B-Programming_Language
 . O
 
 Is O
@@ -28023,12 +28023,12 @@ source O
 ffprobe B-Application
 or O
 the O
-python B-Language
+python B-Programming_Language
 script O
 ? O
 
 Using O
-python B-Language
+python B-Programming_Language
 3.5 O
 . O
 
@@ -29001,7 +29001,7 @@ Train O
 a O
 model O
 in O
-Python B-Language
+Python B-Programming_Language
 : O
 
 CODE_BLOCK O
@@ -29104,7 +29104,7 @@ annotation O
 
 Dependencies O
 
-Python B-Language
+Python B-Programming_Language
 3 O
 
 pip O
@@ -29437,7 +29437,7 @@ needed O
 Using O
 Code O
 
-Objective-C B-Language
+Objective-C B-Programming_Language
 : O
 
 CODE_BLOCK O
@@ -29450,7 +29450,7 @@ for O
 annotation O
 ) O
 
-Swift B-Language
+Swift B-Programming_Language
 : O
 
 CODE_BLOCK O
@@ -31397,7 +31397,7 @@ exceptions O
 
 jquery B-Library
 
-lightbox B-Language
+lightbox B-Programming_Language
 
 bootstrap B-Library
 
@@ -32158,11 +32158,11 @@ e.g O
 " O
 builder B-Application
 , O
-php B-Language
+php B-Programming_Language
 , O
-php56 B-Language
+php56 B-Programming_Language
 , O
-rh-php56 B-Language
+rh-php56 B-Programming_Language
 " O
 ) O
 
@@ -32225,12 +32225,12 @@ you O
 use O
 good O
 old O
-HTML B-Language
+HTML B-Programming_Language
 ( O
 or O
-HAML B-Language
+HAML B-Programming_Language
 , O
-Jade B-Language
+Jade B-Programming_Language
 and O
 friends O
 ! O
@@ -32244,7 +32244,7 @@ and O
 lets O
 you O
 extend O
-HTML B-Language
+HTML B-Programming_Language
 's O
 syntax O
 to O
@@ -32270,7 +32270,7 @@ view O
 ) O
 with O
 your O
-JavaScript B-Language
+JavaScript B-Programming_Language
 objects O
 ( O
 model O
@@ -32338,7 +32338,7 @@ with O
 hashbang O
 urls O
 or O
-HTML5 B-Language
+HTML5 B-Programming_Language
 pushState O
 a O
 piece O
@@ -33541,7 +33541,7 @@ production O
 Download O
 copy O
 as O
-YAML B-Language
+YAML B-Programming_Language
 on O
 staging O
 
@@ -33552,7 +33552,7 @@ on O
 production O
 
 Upload O
-YAML B-Language
+YAML B-Programming_Language
 to O
 production O
 
@@ -33580,7 +33580,7 @@ also O
 commit O
 Copycat B-Library
 's O
-YAML B-Language
+YAML B-Programming_Language
 export O
 , O
 which O
@@ -33700,7 +33700,7 @@ Because O
 Copycat B-Library
 does O
 a O
-SQL B-Language
+SQL B-Programming_Language
 query O
 for O
 each O
@@ -33900,7 +33900,7 @@ you O
 to O
 write O
 an O
-R B-Language
+R B-Programming_Language
 function O
 that O
 is O
@@ -34021,7 +34021,7 @@ scoping O
 rules O
 of O
 the O
-R B-Language
+R B-Programming_Language
 language O
 and O
 how O
@@ -34035,7 +34035,7 @@ state O
 inside O
 of O
 an O
-R B-Language
+R B-Programming_Language
 object O
 . O
 
@@ -34405,7 +34405,7 @@ solve O
 
 function O
 in O
-R B-Language
+R B-Programming_Language
 . O
 For O
 example O
@@ -34561,7 +34561,7 @@ that O
 contains O
 the O
 completed O
-R B-Language
+R B-Programming_Language
 code O
 for O
 the O
@@ -35033,9 +35033,9 @@ https://github.com/ben-eb/metalsmith-remark O
 metalsmith-remark O
 
 Convert O
-markdown B-Language
+markdown B-Programming_Language
 to O
-html B-Language
+html B-Programming_Language
 with O
 remark O
 . O
@@ -35264,7 +35264,7 @@ https://github.com/harshnarang8/AcaConnectFour/issues/2 O
 
 Implementation O
 in O
-java B-Language
+java B-Programming_Language
 . O
 
 AI O
@@ -35478,7 +35478,7 @@ this O
 leads O
 to O
 the O
-python B-Language
+python B-Programming_Language
 library O
 not O
 supporting O
@@ -35492,7 +35492,7 @@ I O
 can O
 change O
 the O
-python B-Language
+python B-Programming_Language
 library O
 to O
 autodetect O
@@ -38259,7 +38259,7 @@ am O
 not O
 familiar O
 with O
-Python B-Language
+Python B-Programming_Language
 . O
 
 I O
@@ -38267,7 +38267,7 @@ use O
 Anacaonda O
 distribution O
 ( O
-Python B-Language
+Python B-Programming_Language
 Version O
 : O
 2.7.9 O
@@ -39182,7 +39182,7 @@ https://github.com/rdzhadan/integracja-systemow/issues/1 O
 
 
 implemented O
-xml/json/yaml/ogdl B-Language
+xml/json/yaml/ogdl B-Programming_Language
 response O
 types O
 
@@ -40465,7 +40465,7 @@ not O
 part O
 of O
 any O
-Ruby B-Language
+Ruby B-Programming_Language
 gems O
 , O
 but O
@@ -40628,7 +40628,7 @@ Nokogiri B-Library
 For O
 parsing O
 V2 O
-XML B-Language
+XML B-Programming_Language
 requests O
 . O
 
@@ -40644,7 +40644,7 @@ to O
 parse O
 requests O
 using O
-yaml B-Language
+yaml B-Programming_Language
 encoded O
 options O
 as O
@@ -44234,7 +44234,7 @@ strategy O
 for O
 testing O
 if O
-CSS B-Language
+CSS B-Programming_Language
 declarations O
 must O
 be O
@@ -45009,7 +45009,7 @@ PR O
 makes O
 sure O
 that O
-js B-Language
+js B-Programming_Language
 files O
 under O
 lib O
@@ -45062,7 +45062,7 @@ since O
 it O
 checks O
 all O
-js B-Language
+js B-Programming_Language
 files O
 under O
 it O
@@ -46160,7 +46160,7 @@ BST B-Data_Structure
 Questions O
 implemented O
 in O
-Java B-Language
+Java B-Programming_Language
 
 1) O
 Check O
@@ -46276,7 +46276,7 @@ to O
 speedtest.net B-Application
 written O
 in O
-Go B-Language
+Go B-Programming_Language
 . O
 
 It O
@@ -46288,7 +46288,7 @@ from O
 https://github.com/sivel/speedtest-cli O
 written O
 in O
-Python B-Language
+Python B-Programming_Language
 . O
 
 It O
@@ -46915,7 +46915,7 @@ then O
 is O
 done O
 with O
-R B-Language
+R B-Programming_Language
 . O
 Do O
 you O
@@ -48384,7 +48384,7 @@ automation O
 ) O
 
 Added O
-SCSS B-Language
+SCSS B-Programming_Language
 source O
 and O
 a O
@@ -48619,7 +48619,7 @@ only O
 relative O
 to O
 the O
-html B-Language
+html B-Programming_Language
 ( O
 root O
 ) O
@@ -49341,7 +49341,7 @@ instruction O
 said O
 . O
 
-Python B-Language
+Python B-Programming_Language
 2.7.10 O
 
 Repository_Name O
@@ -49867,7 +49867,7 @@ using O
 MySQL B-Application
 5.5.49 O
 and O
-PHP B-Language
+PHP B-Programming_Language
 5.5.9 O
 and O
 is O
@@ -49875,7 +49875,7 @@ expected O
 to O
 work O
 on O
-PHP B-Language
+PHP B-Programming_Language
 >= O
 5.5.9 O
 
@@ -50089,9 +50089,9 @@ message O
 transport O
 . O
 
-Java B-Language
+Java B-Programming_Language
 and O
-C++ B-Language
+C++ B-Programming_Language
 clients O
 are O
 available O
@@ -50286,11 +50286,11 @@ use O
 Aeron B-Application
 ? O
 
-Java B-Language
+Java B-Programming_Language
 Programming O
 Guide O
 
-C++11 B-Language
+C++11 B-Programming_Language
 Programming O
 Guide O
 
@@ -50514,7 +50514,7 @@ annotation O
 
 Build O
 
-Java B-Language
+Java B-Programming_Language
 Build O
 
 The O
@@ -50608,7 +50608,7 @@ for O
 annotation O
 ) O
 
-C++ B-Language
+C++ B-Programming_Language
 Build O
 
 You O
@@ -50630,7 +50630,7 @@ higher O
 of O
 CMake B-Application
 
-C++11 B-Language
+C++11 B-Programming_Language
 supported O
 compiler B-Application
 for O
@@ -50638,7 +50638,7 @@ the O
 supported O
 platform O
 
-C11 B-Language
+C11 B-Programming_Language
 supported O
 compiler B-Application
 for O
@@ -50808,7 +50808,7 @@ as O
 part O
 of O
 the O
-C++ B-Language
+C++ B-Programming_Language
 Build O
 . O
 
@@ -52713,7 +52713,7 @@ GoDoRP B-Application
 
 GoDoRP B-Application
 ( O
-Golang B-Language
+Golang B-Programming_Language
 , O
 Docker B-Application
 , O
@@ -52777,7 +52777,7 @@ changes O
 for O
 both O
 the O
-GoLang B-Language
+GoLang B-Programming_Language
 backend O
 and O
 React B-Library
@@ -52801,7 +52801,7 @@ React B-Library
 frontend O
 and O
 binary O
-goLang B-Language
+goLang B-Programming_Language
 backend O
 
 Production O
@@ -52942,7 +52942,7 @@ changing O
 any O
 backend O
 ( O
-GoLang B-Language
+GoLang B-Programming_Language
 ) O
 code O
 locally O
@@ -54861,9 +54861,9 @@ data O
 is O
 streamed O
 to O
-python B-Language
+python B-Programming_Language
 as O
-xml B-Language
+xml B-Programming_Language
 frame O
 metadata O
 and O
@@ -54920,7 +54920,7 @@ calculated O
 Requirements O
 : O
 
-Python B-Language
+Python B-Programming_Language
 3.x O
 
 FFMpeg B-Application
@@ -55045,7 +55045,7 @@ services O
 active-directory B-Application
 platforms O
 : O
-javascript B-Language
+javascript B-Programming_Language
 author O
 : O
 vibronet O
@@ -57186,7 +57186,7 @@ simulations O
 
 Requirements O
 
-C++11 B-Language
+C++11 B-Programming_Language
 compiler B-Application
 
 freeglut B-Library
@@ -58077,7 +58077,7 @@ do O
 on O
 them O
 in O
-Python B-Language
+Python B-Programming_Language
 . O
 
 I O
@@ -58542,7 +58542,7 @@ the O
 file O
 struct B-Data_Structure
 of O
-go B-Language
+go B-Programming_Language
 , O
 I O
 need O
@@ -59196,7 +59196,7 @@ good O
 I O
 notices O
 the O
-xml B-Language
+xml B-Programming_Language
 does O
 have O
 a O
@@ -61140,7 +61140,7 @@ coversMutuallyExclusively O
 . O
 
 The O
-UML B-Language
+UML B-Programming_Language
 model O
 should O
 be O
@@ -61705,7 +61705,7 @@ simple O
 game O
 built O
 with O
-JavaScript B-Language
+JavaScript B-Programming_Language
 and O
 jQuery B-Library
 where O
@@ -62102,7 +62102,7 @@ Model B-Library_Class
 with O
 the O
 invalid O
-WKT B-Language
+WKT B-Programming_Language
 string B-Data_Type
 " O
 POINT O
@@ -62789,13 +62789,13 @@ Although O
 is O
 my O
 default O
-python B-Language
+python B-Programming_Language
 version O
 , O
 configure.py O
 was O
 using O
-python B-Language
+python B-Programming_Language
 3.6 O
 ' O
 s O
@@ -62816,7 +62816,7 @@ but O
 in O
 a O
 conda B-Application
-py2.7 B-Language
+py2.7 B-Programming_Language
 environment O
 . O
 
@@ -63078,7 +63078,7 @@ structure O
 used O
 by O
 the O
-python B-Language
+python B-Programming_Language
 configparser B-Library_Class
 module O
 ( O
@@ -63657,7 +63657,7 @@ Django B-Library
 - O
 2.0 O
 and O
-Python B-Language
+Python B-Programming_Language
 2 O
 & O
 3 O
@@ -63746,12 +63746,12 @@ keep O
 close O
 to O
 what O
-PHP B-Language
+PHP B-Programming_Language
 ships O
 with O
 
 Every O
-php B-Language
+php B-Programming_Language
 application O
 has O
 dependencies O
@@ -63942,17 +63942,17 @@ fieldtop B-Application
 , O
 not O
 your O
-php B-Language
+php B-Programming_Language
 classes O
 . O
 
 You O
 mentioned O
-php B-Language
+php B-Programming_Language
 version O
 constraint O
 to O
-php B-Language
+php B-Programming_Language
 5.5.9 O
 , O
 which O
@@ -63973,7 +63973,7 @@ statement O
 about O
 that O
 : O
-PHP B-Language
+PHP B-Programming_Language
 5.5 O
 and O
 low O
@@ -63984,7 +63984,7 @@ version O
 anymore O
 from O
 the O
-php B-Language
+php B-Programming_Language
 project O
 . O
 
@@ -64034,7 +64034,7 @@ code O
 base O
 and O
 old O
-php B-Language
+php B-Programming_Language
 versions O
 ( O
 which O
@@ -65483,7 +65483,7 @@ printing O
 traces O
 that O
 has O
-HTML B-Language
+HTML B-Programming_Language
 entities O
 within O
 , O
@@ -65512,7 +65512,7 @@ errors/error_php_custom.php O
 is O
 wrapped O
 in O
-htmlentities B-Language
+htmlentities B-Programming_Language
 . O
 
 php O
@@ -65764,7 +65764,7 @@ started O
 you O
 'll O
 need O
-JRuby B-Language
+JRuby B-Programming_Language
 with O
 the O
 Bundler B-Application
@@ -68363,7 +68363,7 @@ Version O
 
 Branch O
 
-PHP B-Language
+PHP B-Programming_Language
 
 development O
 
@@ -68584,7 +68584,7 @@ http://eurovoc.europa.eu/schema#noteLiteral O
 property O
 takes O
 an O
-XML B-Language
+XML B-Programming_Language
 literal O
 as O
 object O
@@ -68599,7 +68599,7 @@ the O
 note O
 as O
 an O
-XHTML B-Language
+XHTML B-Programming_Language
 fragment O
 ( O
 see O
@@ -68745,7 +68745,7 @@ successfully O
 started O
 up O
 other O
-golang B-Language
+golang B-Programming_Language
 projects O
 ? O
 
@@ -68956,7 +68956,7 @@ do O
 with O
 WAMP B-Application
 default O
-php B-Language
+php B-Programming_Language
 bin O
 location O
 . O
@@ -69124,7 +69124,7 @@ the O
 example O
 of O
 the O
-swift B-Language
+swift B-Programming_Language
 code O
 : O
 
@@ -69332,9 +69332,9 @@ Whether O
 the O
 value O
 is O
-XML B-Language
+XML B-Programming_Language
 or O
-HTML B-Language
+HTML B-Programming_Language
 or O
 plain O
 text O
@@ -70668,7 +70668,7 @@ libusb B-Library
 version O
 ( O
 the O
-C B-Language
+C B-Programming_Language
 library O
 ) O
 , O
@@ -70681,7 +70681,7 @@ a O
 bug O
 in O
 my O
-python B-Language
+python B-Programming_Language
 wrapper O
 . O
 
@@ -73063,9 +73063,9 @@ options O
 
 Twitter B-Website
 Boostrap B-Library
-CSS B-Language
+CSS B-Programming_Language
 amd O
-JS B-Language
+JS B-Programming_Language
 integration O
 ( O
 Collapsable O
@@ -73084,7 +73084,7 @@ Replies O
 
 Requirements O
 
-PHP B-Language
+PHP B-Programming_Language
 5.3 O
 + O
 
@@ -73721,7 +73721,7 @@ instruction O
 said O
 . O
 
-Python B-Language
+Python B-Programming_Language
 2.7.10 O
 
 — O
@@ -74254,7 +74254,7 @@ Description O
 . O
 
 fully O
-PHP B-Language
+PHP B-Programming_Language
 7 O
 compatible O
 . O
@@ -74809,7 +74809,7 @@ program O
 runs O
 into O
 a O
-MySQL B-Language
+MySQL B-Programming_Language
 error O
 , O
 it O
@@ -75757,12 +75757,12 @@ shows O
 
 Built O
 on O
-HTML B-Language
+HTML B-Programming_Language
 , O
-CSS B-Language
+CSS B-Programming_Language
 and O
 vanilla O
-JavaScript B-Language
+JavaScript B-Programming_Language
 
 Works O
 in O
@@ -76014,7 +76014,7 @@ UI O
 
 My O
 Vanilla O
-CSS B-Language
+CSS B-Programming_Language
 
 I O
 'm O
@@ -76186,7 +76186,7 @@ programmingspritz O
 Corso O
 di O
 programmazione O
-Python B-Language
+Python B-Programming_Language
 
 Repository_Name O
 : O
@@ -76239,7 +76239,7 @@ is O
 a O
 API B-Library
 for O
-Python B-Language
+Python B-Programming_Language
 via O
 ctypes O
 for O
@@ -76298,7 +76298,7 @@ run O
 the O
 scope O
 through O
-Python B-Language
+Python B-Programming_Language
 . O
 
 The O
@@ -77380,14 +77380,14 @@ is O
 not O
 available O
 in O
-PHP B-Language
+PHP B-Programming_Language
 5.6 O
 , O
 it O
 was O
 introduced O
 in O
-PHP7 B-Language
+PHP7 B-Programming_Language
 . O
 
 Exceptions B-Library_Class
@@ -77747,7 +77747,7 @@ bound O
 to O
 the O
 gererated O
-html B-Language
+html B-Programming_Language
 on O
 the O
 AngularJS B-Library
@@ -78338,7 +78338,7 @@ Penguin-lite B-Library
 Penguin-lite B-Library
 is O
 a O
-just-css B-Language
+just-css B-Programming_Language
 version O
 of O
 penguin B-Library
@@ -79315,7 +79315,7 @@ location-aware O
 applications O
 in O
 the O
-Ruby B-Language
+Ruby B-Programming_Language
 programming O
 language O
 . O
@@ -79469,12 +79469,12 @@ supports O
 earlier O
 versions O
 of O
-ruby B-Language
+ruby B-Programming_Language
 and O
 ActiveRecord B-Library
 : O
 
-Ruby B-Language
+Ruby B-Programming_Language
 1.8.7 O
 or O
 later O
@@ -80023,7 +80023,7 @@ we O
 could O
 automate O
 our O
-python B-Language
+python B-Programming_Language
 requirements O
 with O
 " O
@@ -80079,7 +80079,7 @@ Bootstrap B-Library
 , O
 Socket.IO B-Library
 , O
-PHP B-Language
+PHP B-Programming_Language
 ; O
 
 Android B-Operating_System
@@ -80088,7 +80088,7 @@ client B-Application
 Android B-Application
 SDK I-Application
 ( O
-Java B-Language
+Java B-Programming_Language
 ) O
 , O
 Web O
@@ -81033,7 +81033,7 @@ beaker B-Application
 instance O
 will O
 accept O
-application/xml B-Language
+application/xml B-Programming_Language
 : O
 
 CODE_BLOCK O
@@ -81134,7 +81134,7 @@ fix O
 Some O
 fixes O
 for O
-Python B-Language
+Python B-Programming_Language
 2 O
 compatibility O
 . O
@@ -81451,7 +81451,7 @@ via O
 USB B-Device
 . O
 
-Python B-Language
+Python B-Programming_Language
 3 O
 
 Repository_Name O
@@ -81651,7 +81651,7 @@ only O
 have O
 OpenComputers B-Application
 or O
-Lua B-Language
+Lua B-Programming_Language
 related O
 things O
 in O
@@ -82348,7 +82348,7 @@ Tools O
 
 Write O
 in O
-Javascript B-Language
+Javascript B-Programming_Language
 . O
 
 Use O
@@ -83995,7 +83995,7 @@ API B-Library
 version O
 : O
 1.26 O
-Go B-Language
+Go B-Programming_Language
 version O
 : O
 go1.6.2 O
@@ -84028,7 +84028,7 @@ minimum O
 version O
 1.12 O
 ) O
-Go B-Language
+Go B-Programming_Language
 version O
 : O
 go1.6.2 O
@@ -84062,7 +84062,7 @@ docker-py B-Library
 version O
 : O
 3.3.0 O
-CPython B-Language
+CPython B-Programming_Language
 version O
 : O
 3.6.5 O
@@ -84817,7 +84817,7 @@ proxying O
 all O
 requests O
 through O
-PHP B-Language
+PHP B-Programming_Language
 is O
 itself O
 very O
@@ -85244,7 +85244,7 @@ those O
 used O
 in O
 the O
-UML B-Language
+UML B-Programming_Language
 model O
 . O
 
@@ -85977,7 +85977,7 @@ Simple O
 task O
 runner O
 , O
-yaml B-Language
+yaml B-Programming_Language
 config O
 file O
 . O
@@ -86011,7 +86011,7 @@ rake B-Application
 composer B-Application
 .. O
 . O
-sass B-Language
+sass B-Programming_Language
 compilation O
 tasks O
 .. O

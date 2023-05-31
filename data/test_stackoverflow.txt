@@ -1198,7 +1198,7 @@ I O
 am O
 practicing O
 for O
-Java B-Language
+Java B-Programming_Language
 fresher O
 interview O
 coding O
@@ -2433,7 +2433,7 @@ restore O
 my O
 default O
 system O
-ruby B-Language
+ruby B-Programming_Language
 . O
 
 I O
@@ -2481,7 +2481,7 @@ You O
 also O
 need O
 the O
-ruby B-Language
+ruby B-Programming_Language
 executables O
 in O
 /usr/bin O
@@ -2490,7 +2490,7 @@ point O
 to O
 the O
 system O
-Ruby B-Language
+Ruby B-Programming_Language
 : O
 /usr/bin/{erb,gem,irb,rdoc,ri,ruby,testrb} O
 
@@ -2549,7 +2549,7 @@ directly O
 at O
 the O
 system O
-ruby B-Language
+ruby B-Programming_Language
 on O
 the O
 /System/Library/Frameworks/Ruby.framework O
@@ -2557,7 +2557,7 @@ path O
 , O
 so O
 symlinking O
-ruby B-Language
+ruby B-Programming_Language
 to O
 a O
 custom O
@@ -2579,7 +2579,7 @@ ostruct B-Library_Class
 ( O
 part O
 of O
-ruby B-Language
+ruby B-Programming_Language
 standard O
 lib O
 ) O
@@ -4537,7 +4537,7 @@ I O
 using O
 preg_replace O
 with O
-php B-Language
+php B-Programming_Language
 , O
 but O
 I O
@@ -4564,7 +4564,7 @@ https://stackoverflow.com/questions/3316844/ O
 
 
 In O
-HTML B-Language
+HTML B-Programming_Language
 ( O
 I O
 'm O
@@ -4621,7 +4621,7 @@ However O
 there O
 is O
 the O
-CSS B-Language
+CSS B-Programming_Language
 pseudo-element O
 :first-line O
 that O
@@ -5429,7 +5429,7 @@ try O
 to O
 upgrade O
 my O
-ruby B-Language
+ruby B-Programming_Language
 version O
 ( O
 1.8.7 O
@@ -5514,7 +5514,7 @@ currently O
 active O
 installation O
 of O
-Ruby B-Language
+Ruby B-Programming_Language
 ; O
 in O
 this O
@@ -5527,7 +5527,7 @@ your O
 system O
 's O
 pre-installed O
-Ruby B-Language
+Ruby B-Programming_Language
 ( O
 1.8.7 O
 ) O
@@ -5934,7 +5934,7 @@ Context O
 
 In O
 a O
-C# B-Language
+C# B-Programming_Language
 Windows B-Library_Class
 Forms I-Library_Class
 application O
@@ -6079,7 +6079,7 @@ m O
 , O
 e.g O
 . O
-c# B-Language
+c# B-Programming_Language
 - O
 Pass-through O
 mouse B-Device
@@ -6103,7 +6103,7 @@ e.g O
 
 winforms B-Library_Class
 - O
-C# B-Language
+C# B-Programming_Language
 Application-Wide O
 Left O
 Mouse B-Device
@@ -6124,14 +6124,14 @@ inside O
 a O
 panel O
 in O
-C# B-Language
+C# B-Programming_Language
 - O
 Stack B-Website
 Overflow I-Website
 
 winforms B-Library_Class
 - O
-C# B-Language
+C# B-Programming_Language
 Application-Wide O
 Left O
 Mouse B-Device
@@ -6148,7 +6148,7 @@ from O
 every O
 component O
 on O
-C# B-Language
+C# B-Programming_Language
 WInForm B-Library
 - O
 Stack B-Website
@@ -6195,7 +6195,7 @@ events O
 to O
 reach O
 native O
-C# B-Language
+C# B-Programming_Language
 controls O
 , O
 but O
@@ -6255,7 +6255,7 @@ there O
 another O
 way O
 from O
-C# B-Language
+C# B-Programming_Language
 /.NET B-Library
 to O
 host O
@@ -6315,13 +6315,13 @@ disable O
 Mouse B-Device
 clicks O
 using O
-c# B-Language
+c# B-Programming_Language
 how O
 to O
 do O
 this O
 in O
-c# B-Language
+c# B-Programming_Language
 . O
 
 Question_ID O
@@ -6899,7 +6899,7 @@ advance O
 
 CODE O
 
-HTML B-Language
+HTML B-Programming_Language
 
 CODE_BLOCK O
 : O
@@ -6911,7 +6911,7 @@ for O
 annotation O
 ) O
 
-CSS B-Language
+CSS B-Programming_Language
 
 CODE_BLOCK O
 : O
@@ -7049,7 +7049,7 @@ FIDDLE B-Application
 of O
 some O
 basic O
-html B-Language
+html B-Programming_Language
 to O
 reference O
 . O
@@ -7303,7 +7303,7 @@ to O
 create O
 a O
 global B-Data_Type
-javascript B-Language
+javascript B-Programming_Language
 object O
 that O
 will O
@@ -8881,7 +8881,7 @@ i O
 use O
 " O
 Plain O
-C B-Language
+C B-Programming_Language
 " O
 to O
 program O
@@ -8890,7 +8890,7 @@ without O
 using O
 the O
 " O
-Processing B-Language
+Processing B-Programming_Language
 programming O
 language O
 " O
@@ -8901,7 +8901,7 @@ want O
 to O
 improve O
 my O
-C B-Language
+C B-Programming_Language
 programming O
 skills O
 by O
@@ -8922,7 +8922,7 @@ ability O
 to O
 code O
 in O
-C++ B-Language
+C++ B-Programming_Language
 , O
 and O
 I O
@@ -8932,11 +8932,11 @@ to O
 write O
 my O
 own O
-Arduino B-Language
+Arduino B-Programming_Language
 Library O
 using O
 " O
-C B-Language
+C B-Programming_Language
 " O
 , O
 to O
@@ -8947,10 +8947,10 @@ and O
 OOP O
 . O
 
-Processing B-Language
+Processing B-Programming_Language
 looks O
 like O
-Java B-Language
+Java B-Programming_Language
 to O
 me O
 , O
@@ -8960,7 +8960,7 @@ want O
 to O
 use O
 " O
-C B-Language
+C B-Programming_Language
 pointers B-Data_Type
 " O
 to O
@@ -8987,10 +8987,10 @@ Arduino B-Device
 does O
 n't O
 use O
-Processing B-Language
+Processing B-Programming_Language
 . O
 
-Processing B-Language
+Processing B-Programming_Language
 is O
 ( O
 was O
@@ -9013,9 +9013,9 @@ purpose O
 The O
 language O
 resembles O
-C B-Language
+C B-Programming_Language
 and O
-C++ B-Language
+C++ B-Programming_Language
 very O
 closely O
 , O
@@ -9044,9 +9044,9 @@ unfortunate O
 ) O
 mixture O
 of O
-C B-Language
+C B-Programming_Language
 and O
-C++ B-Language
+C++ B-Programming_Language
 , O
 with O
 a O
@@ -9063,7 +9063,7 @@ style O
 to O
 that O
 of O
-Processing B-Language
+Processing B-Programming_Language
 ) O
 . O
 
@@ -9072,9 +9072,9 @@ libraries O
 are O
 written O
 in O
-C B-Language
+C B-Programming_Language
 and O
-C++ B-Language
+C++ B-Programming_Language
 themselves O
 , O
 and O
@@ -9142,7 +9142,7 @@ use O
 plain O
 ol O
 ' O
-C B-Language
+C B-Programming_Language
 for O
 programming O
 the O
@@ -9212,7 +9212,7 @@ happens O
 to O
 be O
 a O
-C-only B-Language
+C-only B-Programming_Language
 library O
 which O
 follows O
@@ -9232,7 +9232,7 @@ abstraction O
 as O
 the O
 stock O
-Arduino B-Language
+Arduino B-Programming_Language
 library O
 has O
 , O
@@ -11070,7 +11070,7 @@ file O
 from O
 scratch O
 using O
-PHP B-Language
+PHP B-Programming_Language
 's O
 SimpleXML B-Library_Class
 Object O
@@ -11178,8 +11178,8 @@ DTD O
 ) O
 or O
 an O
-XML B-Language
-Schema I-Language
+XML B-Programming_Language
+Schema I-Programming_Language
 . O
 
 You O
@@ -11343,7 +11343,7 @@ above O
 line O
 or O
 use O
-php B-Language
+php B-Programming_Language
 's O
 DOM B-Library
 extension O
@@ -11485,7 +11485,7 @@ or O
 if O
 you O
 like O
-Ruby B-Language
+Ruby B-Programming_Language
 and O
 want O
 a O
@@ -11493,7 +11493,7 @@ more O
 complete O
 solution O
 to O
-JS.Class B-Language
+JS.Class B-Programming_Language
 . O
 
 Those O
@@ -11504,7 +11504,7 @@ with O
 object O
 orientation O
 in O
-javascript B-Language
+javascript B-Programming_Language
 ad O
 hide O
 prototype O
@@ -13597,7 +13597,7 @@ https://stackoverflow.com/questions/12028246/ O
 
 In O
 my O
-C# B-Language
+C# B-Programming_Language
 program O
 I O
 have O
@@ -13750,7 +13750,7 @@ table B-Data_Structure
 
 Its O
 a O
-C# B-Language
+C# B-Programming_Language
 project O
 in O
 Visual B-Application
@@ -14009,7 +14009,7 @@ read/write O
 to O
 CloudStorage B-Application
 from O
-PHP B-Language
+PHP B-Programming_Language
 on O
 GCE B-Application
 . O
@@ -14817,7 +14817,7 @@ sympy B-Library
 to O
 initialize O
 the O
-latex/unicode B-Language
+latex/unicode B-Programming_Language
 style O
 output O
 printing O
@@ -15340,7 +15340,7 @@ the O
 file O
 without O
 any O
-JS B-Language
+JS B-Programming_Language
 intervention O
 . O
 
@@ -16213,7 +16213,7 @@ annotation O
 ) O
 
 instructs O
-Go B-Language
+Go B-Programming_Language
 's O
 runtime O
 to O
@@ -16298,7 +16298,7 @@ the O
 FAQ O
 and O
 the O
-Go B-Language
+Go B-Programming_Language
 wiki O
 about O
 it O
@@ -16620,7 +16620,7 @@ as O
 of O
 when O
 the O
-go B-Language
+go B-Programming_Language
 statement O
 was O
 executed O
@@ -16764,7 +16764,7 @@ different O
 var B-Data_Type
 " O
 from O
-Go B-Language
+Go B-Programming_Language
 's O
 perspective O
 , O
@@ -17010,7 +17010,7 @@ I O
 am O
 working O
 in O
-Python B-Language
+Python B-Programming_Language
 in O
 Houdini B-Library
 at O
@@ -17040,7 +17040,7 @@ to O
 use O
 the O
 pure O
-python B-Language
+python B-Programming_Language
 implementation O
 to O
 write O
@@ -18300,7 +18300,7 @@ for O
 annotation O
 ) O
 
-PHP B-Language
+PHP B-Programming_Language
 is O
 still O
 waiting O
@@ -18447,7 +18447,7 @@ have O
 to O
 convert O
 this O
-hql B-Language
+hql B-Programming_Language
 query O
 in O
 hibernate B-Library
@@ -18517,7 +18517,7 @@ I O
 'm O
 testing O
 new O
-JS/HTML5 B-Language
+JS/HTML5 B-Programming_Language
 history O
 methods O
 . O
@@ -19370,7 +19370,7 @@ id O
 for O
 some O
 reason O
-mysql B-Language
+mysql B-Programming_Language
 is O
 not O
 throwing O
@@ -19620,10 +19620,10 @@ example O
 code O
 of O
 a O
-cpython B-Language
+cpython B-Programming_Language
 ( O
 not O
-IronPython B-Language
+IronPython B-Programming_Language
 ) O
 client O
 which O
@@ -19693,7 +19693,7 @@ chapter O
 in O
 Dive O
 Into O
-Python B-Language
+Python B-Programming_Language
 . O
 
 It O
@@ -19719,7 +19719,7 @@ a O
 WCF B-Library
 service O
 in O
-Python B-Language
+Python B-Programming_Language
 , O
 regardless O
 of O
@@ -19819,7 +19819,7 @@ the O
 time O
 into O
 my O
-SQL B-Language
+SQL B-Programming_Language
 database O
 . O
 
@@ -19864,7 +19864,7 @@ converting O
 the O
 date O
 to O
-SQL B-Language
+SQL B-Programming_Language
 during O
 the O
 save O
@@ -21440,7 +21440,7 @@ work O
 . O
 
 My O
-js B-Language
+js B-Programming_Language
 looks O
 like O
 that O
@@ -21626,7 +21626,7 @@ mood O
 and O
 send O
 back O
-TWIML B-Language
+TWIML B-Programming_Language
 with O
 podcast O
 mp3 O
@@ -21861,7 +21861,7 @@ then O
 use O
 the O
 following O
-TwiML B-Language
+TwiML B-Programming_Language
 ( O
 as O
 an O
@@ -22117,7 +22117,7 @@ https://stackoverflow.com/questions/1179655/ O
 
 
 In O
-Erlang B-Language
+Erlang B-Programming_Language
 is O
 there O
 a O
@@ -22152,7 +22152,7 @@ annotation O
 ) O
 
 In O
-JavaScript B-Language
+JavaScript B-Programming_Language
 arguments.callee O
 does O
 just O
@@ -22212,7 +22212,7 @@ https://stackoverflow.com/questions/1179655/ O
 
 
 The O
-Erlang B-Language
+Erlang B-Programming_Language
 language O
 does O
 not O
@@ -22234,8 +22234,8 @@ is O
 a O
 rumour O
 that O
-Core B-Language
-Erlang I-Language
+Core B-Programming_Language
+Erlang I-Programming_Language
 ( O
 an O
 intermediate O
@@ -22274,11 +22274,11 @@ happen O
 to O
 be O
 generating O
-Core B-Language
-Erlang I-Language
+Core B-Programming_Language
+Erlang I-Programming_Language
 in O
 a O
-DSL B-Language
+DSL B-Programming_Language
 or O
 similar O
 it O
@@ -22300,7 +22300,7 @@ https://stackoverflow.com/questions/1179655/ O
 
 
 In O
-Erlang/OTP B-Language
+Erlang/OTP B-Programming_Language
 17.0-rc1 O
 , O
 you O
@@ -22414,7 +22414,7 @@ Why O
 Property B-Data_Structure
 list I-Data_Structure
 , O
-XML B-Language
+XML B-Programming_Language
 , O
 SQlite B-Library
 , O
@@ -23329,7 +23329,7 @@ magic O
 of O
 prototypes O
 in O
-JavaScript B-Language
+JavaScript B-Programming_Language
 . O
 
 This O
@@ -23377,7 +23377,7 @@ working O
 with O
 objects O
 in O
-JS B-Language
+JS B-Programming_Language
 ( O
 like O
 arrays B-Data_Structure
@@ -23394,7 +23394,7 @@ To O
 make O
 use O
 of O
-JS B-Language
+JS B-Programming_Language
 's O
 prototype O
 system O
@@ -23469,7 +23469,7 @@ more O
 about O
 prototypes O
 in O
-JS B-Language
+JS B-Programming_Language
 I O
 recommend O
 this O
@@ -23499,12 +23499,12 @@ with O
 CSV O
 opening O
 through O
-PHP B-Language
+PHP B-Programming_Language
 code O
 . O
 
 My O
-PHP B-Language
+PHP B-Programming_Language
 code O
 is O
 : O
@@ -23524,7 +23524,7 @@ problem O
 is O
 n't O
 in O
-PHP B-Language
+PHP B-Programming_Language
 code O
 , O
 the O
@@ -23535,7 +23535,7 @@ in O
 file O
 . O
 
-PHP B-Language
+PHP B-Programming_Language
 code O
 must O
 work O
@@ -23739,7 +23739,7 @@ structure O
 called O
 PROCESS O
 in O
-C B-Language
+C B-Programming_Language
 , O
 this O
 struct B-Data_Structure
@@ -23966,7 +23966,7 @@ say O
 you O
 are O
 doing O
-C B-Language
+C B-Programming_Language
 , O
 you O
 do O
@@ -24784,7 +24784,7 @@ a O
 big O
 dataframe B-Data_Structure
 in O
-R B-Language
+R B-Programming_Language
 , O
 and O
 I O
@@ -24999,7 +24999,7 @@ I O
 tried O
 using O
 a O
-sql B-Language
+sql B-Programming_Language
 query O
 with O
 sqldf B-Library
@@ -25051,7 +25051,7 @@ across O
 a O
 solution O
 with O
-SQL B-Language
+SQL B-Programming_Language
 objects O
 ( O
 Is O
@@ -25073,7 +25073,7 @@ did O
 n't O
 work O
 in O
-R B-Language
+R B-Programming_Language
 's O
 sqldf B-Library
 . O
@@ -25101,7 +25101,7 @@ I O
 just O
 started O
 in O
-R B-Language
+R B-Programming_Language
 ( O
 and O
 am O
@@ -25110,7 +25110,7 @@ not O
 very O
 familiar O
 with O
-sql B-Language
+sql B-Programming_Language
 ) O
 , O
 so O
@@ -25146,7 +25146,7 @@ two O
 lines O
 of O
 base O
-R B-Language
+R B-Programming_Language
 code O
 using O
 ave O
@@ -26144,7 +26144,7 @@ constructing O
 long O
 strings B-Data_Type
 with O
-JS B-Language
+JS B-Programming_Language
 can O
 be O
 slow O
@@ -26178,7 +26178,7 @@ not O
 W3C O
 valid O
 in O
-HTML4 B-Language
+HTML4 B-Programming_Language
 . O
 
 Thats O
@@ -26756,7 +26756,7 @@ a O
 public B-Data_Type
 variable O
 in O
-vba B-Language
+vba B-Programming_Language
 and O
 assign O
 a O
@@ -27303,7 +27303,7 @@ bit O
 confused O
 about O
 the O
-c++11 B-Language
+c++11 B-Programming_Language
 random B-Library
 library O
 . O
@@ -28601,7 +28601,7 @@ weka B-Application
 ... O
 by O
 running O
-java B-Language
+java B-Programming_Language
 call O
 :java O
 -classpath O
@@ -28909,7 +28909,7 @@ but O
 preferred O
 languages O
 are O
-PHP B-Language
+PHP B-Programming_Language
 or O
 NodeJs B-Library
 if O
@@ -28972,7 +28972,7 @@ you O
 go O
 , O
 in O
-Python B-Language
+Python B-Programming_Language
 . O
 
 This O
@@ -29808,10 +29808,10 @@ single O
 property O
 as O
 hidden O
-html B-Language
+html B-Programming_Language
 elements O
 using O
-javascript B-Language
+javascript B-Programming_Language
 strings B-Data_Type
 , O
 then O
@@ -29983,7 +29983,7 @@ DB2 B-Application
 I O
 have O
 tried O
-XML B-Language
+XML B-Programming_Language
 Aggrigate O
 functon O
 of O
@@ -31030,7 +31030,7 @@ have O
 the O
 correct O
 footables B-Data_Structure
-css B-Language
+css B-Programming_Language
 file O
 referenced O
 in O
@@ -31765,7 +31765,7 @@ exactly O
 2 O
 subjects O
 using O
-sql B-Language
+sql B-Programming_Language
 
 degree(degcode,name,subject) O
 
@@ -32975,7 +32975,7 @@ a O
 new O
 page O
 when O
-JavaScript B-Language
+JavaScript B-Programming_Language
 is O
 turned O
 off O
@@ -33174,7 +33174,7 @@ great O
 They O
 typically O
 require O
-JavaScript B-Language
+JavaScript B-Programming_Language
 , O
 and O
 , O
@@ -33630,7 +33630,7 @@ version O
 2.18.3 O
 ) O
 with O
-Java B-Language
+Java B-Programming_Language
 DSL O
 - O
 
@@ -33735,7 +33735,7 @@ the O
 service O
 from O
 your O
-wsdl B-Language
+wsdl B-Programming_Language
 using O
 wsdl2java B-Application
 command O
@@ -36171,7 +36171,7 @@ to O
 do O
 this O
 in O
-Haskell B-Language
+Haskell B-Programming_Language
 ? O
 
 Answer_to_Question_ID O
@@ -36317,7 +36317,7 @@ in O
 FMIS B-Application
 4 O
 and O
-AS3 B-Language
+AS3 B-Programming_Language
 ? O
 
 Answer_to_Question_ID O
@@ -36660,7 +36660,7 @@ in O
 my O
 ASP.NET B-Library
 ( O
-VB.NET B-Language
+VB.NET B-Programming_Language
 ) O
 webform O
 . O
@@ -36729,7 +36729,7 @@ to O
 do O
 this O
 in O
-VB.NET B-Language
+VB.NET B-Programming_Language
 ? O
 
 Answer_to_Question_ID O
@@ -36756,7 +36756,7 @@ annotation O
 
 Code-behind O
 ( O
-C# B-Language
+C# B-Programming_Language
 ) O
 - O
 formatting O
@@ -36790,7 +36790,7 @@ System.Core.dll O
 
 Code-behind O
 ( O
-C# B-Language
+C# B-Programming_Language
 ) O
 - O
 formatting O
@@ -37617,7 +37617,7 @@ a O
 regex O
 in O
 my O
-php B-Language
+php B-Programming_Language
 code O
 to O
 remove O
@@ -38081,7 +38081,7 @@ I O
 thought O
 it O
 was O
-java B-Language
+java B-Programming_Language
 ;) O
 
 Question_ID O
@@ -38838,7 +38838,7 @@ it O
 Here O
 is O
 my O
-rails B-Language
+rails B-Programming_Language
 controller O
 : O
 
@@ -39062,7 +39062,7 @@ declarations O
 
 Using O
 a O
-C B-Language
+C B-Programming_Language
 compiler B-Application
 that O
 supported O
@@ -39071,7 +39071,7 @@ standard O
 more O
 recent O
 that O
-C89 B-Language
+C89 B-Programming_Language
 would O
 be O
 a O
@@ -39092,7 +39092,7 @@ I O
 've O
 created O
 a O
-bash B-Language
+bash B-Programming_Language
 script O
 to O
 find O
@@ -39362,7 +39362,7 @@ have O
 pointed O
 out O
 , O
-bash B-Language
+bash B-Programming_Language
 is O
 not O
 a O
@@ -39731,7 +39731,7 @@ HERE O
 ) O
 
 In O
-Bash B-Language
+Bash B-Programming_Language
 alone O
 , O
 start O
@@ -39763,7 +39763,7 @@ the O
 lines O
 alone O
 in O
-Bash B-Language
+Bash B-Programming_Language
 ( O
 same O
 file O
@@ -39787,7 +39787,7 @@ microseconds O
 
 So O
 the O
-Bash B-Language
+Bash B-Programming_Language
 version O
 is O
 going O
@@ -39872,7 +39872,7 @@ the O
 same O
 function O
 in O
-Python B-Language
+Python B-Programming_Language
 : O
 
 CODE_BLOCK O
@@ -39896,7 +39896,7 @@ in O
 ms O
 . O
 
-Bash B-Language
+Bash B-Programming_Language
 is O
 great O
 for O
@@ -39918,10 +39918,10 @@ tasks O
 . O
 
 Use O
-awk B-Language
-perl I-Language
-python I-Language
-ruby I-Language
+awk B-Programming_Language
+perl I-Programming_Language
+python I-Programming_Language
+ruby I-Programming_Language
 etc O
 for O
 larger O
@@ -39961,7 +39961,7 @@ a O
 data O
 file O
 in O
-perl B-Language
+perl B-Programming_Language
 , O
 but O
 it O
@@ -40999,7 +40999,7 @@ so O
 far O
 : O
 
-HTML B-Language
+HTML B-Programming_Language
 
 CODE_BLOCK O
 : O
@@ -41011,7 +41011,7 @@ for O
 annotation O
 ) O
 
-Javascript B-Language
+Javascript B-Programming_Language
 
 CODE_BLOCK O
 : O
@@ -42074,7 +42074,7 @@ My O
 Data B-Library_Class
 Table I-Library_Class
 to O
-XML B-Language
+XML B-Programming_Language
 . O
 
 I O
@@ -42191,7 +42191,7 @@ to O
 save O
 it O
 as O
-XML B-Language
+XML B-Programming_Language
 Here O
 is O
 useful O
@@ -42442,7 +42442,7 @@ problem O
 with O
 event O
 in O
-Java B-Language
+Java B-Programming_Language
 . O
 
 I O
@@ -43407,7 +43407,7 @@ Codepen B-Application
 ( O
 with O
 compiled O
-CSS B-Language
+CSS B-Programming_Language
 ) O
 
 Notes O
@@ -44215,9 +44215,9 @@ https://stackoverflow.com/questions/9648463/ O
 Adjust O
 your O
 jqm B-Library
-css B-Language
+css B-Programming_Language
 and O
-js B-Language
+js B-Programming_Language
 references O
 . O
 
@@ -45413,7 +45413,7 @@ and O
 I O
 am O
 using O
-c# B-Language
+c# B-Programming_Language
 and O
 asp B-Library
 . O
@@ -45986,7 +45986,7 @@ entries O
 . O
 
 The O
-java B-Language
+java B-Programming_Language
 code O
 is O
 : O
@@ -46171,7 +46171,7 @@ I O
 do O
 this O
 in O
-Java B-Language
+Java B-Programming_Language
 ? O
 
 Answer_to_Question_ID O
@@ -46579,7 +46579,7 @@ a O
 word O
 game O
 in O
-Java B-Language
+Java B-Programming_Language
 for O
 practice O
 . O
@@ -47248,7 +47248,7 @@ your O
 front-end O
 with O
 client-side O
-Javascript B-Language
+Javascript B-Programming_Language
 , O
 using O
 something O
@@ -48030,8 +48030,8 @@ which O
 is O
 16.0.0a2 O
 using O
-batch B-Language
-script I-Language
+batch B-Programming_Language
+script I-Programming_Language
 . O
 
 I O
@@ -48556,8 +48556,8 @@ alternatives O
 ( O
 beside O
 learning O
-Objective B-Language
-C I-Language
+Objective B-Programming_Language
+C I-Programming_Language
 , O
 which O
 I O
@@ -48711,7 +48711,7 @@ the O
 default O
 behavior O
 in O
-C# B-Language
+C# B-Programming_Language
 Winforms B-Library
 , O
 and O
@@ -49985,7 +49985,7 @@ below O
 ) O
 
 1.calling O
-PHP B-Language
+PHP B-Programming_Language
 script O
 : O
 
@@ -51133,7 +51133,7 @@ How O
 do O
 I O
 get O
-PHP B-Language
+PHP B-Programming_Language
 to O
 recognize O
 the O
@@ -51247,7 +51247,7 @@ library O
 functionality O
 in O
 a O
-C# B-Language
+C# B-Programming_Language
 project O
 . O
 
@@ -51358,7 +51358,7 @@ The O
 content O
 is O
 plain O
-html B-Language
+html B-Programming_Language
 . O
 
 The O
@@ -52902,7 +52902,7 @@ push O
 part O
 of O
 the O
-XML B-Language
+XML B-Programming_Language
 . O
 
 How O
@@ -53475,7 +53475,7 @@ appxmanifest O
 ( O
 the O
 Device O
-xml B-Language
+xml B-Programming_Language
 child O
 will O
 be O
@@ -53635,7 +53635,7 @@ I O
 'm O
 new O
 to O
-VBA B-Language
+VBA B-Programming_Language
 so O
 any O
 help O
@@ -54841,7 +54841,7 @@ the O
 Browser B-Application
 cookies O
 using O
-JavaScript.I B-Language
+JavaScript.I B-Programming_Language
 tried O
 the O
 below O
@@ -55881,7 +55881,7 @@ the O
 BitTorrent B-Website
 protocol O
 in O
-C# B-Language
+C# B-Programming_Language
 . O
 
 A O
@@ -56862,7 +56862,7 @@ flexibility O
 you O
 might O
 try O
-Ruby B-Language
+Ruby B-Programming_Language
 or O
 some O
 other O
@@ -56884,7 +56884,7 @@ I O
 constrained O
 to O
 writing O
-C++11 B-Language
+C++11 B-Programming_Language
 code O
 , O
 but O
@@ -56964,7 +56964,7 @@ was O
 n't O
 part O
 of O
-C++11 B-Language
+C++11 B-Programming_Language
 like O
 std::begin() O
 ? O
@@ -57029,7 +57029,7 @@ that O
 was O
 omitted O
 until O
-C++14 B-Language
+C++14 B-Programming_Language
 is O
 std::make_unique O
 . O
@@ -57157,14 +57157,14 @@ member O
 function O
 alternative O
 in O
-C++11 B-Language
+C++11 B-Programming_Language
 , O
 and O
 the O
 template O
 not O
 until O
-C++ B-Language
+C++ B-Programming_Language
 14 O
 . O
 
@@ -57233,7 +57233,7 @@ to O
 be O
 adopted O
 into O
-C++14 B-Language
+C++14 B-Programming_Language
 after O
 all O
 . O
@@ -57582,7 +57582,7 @@ or O
 more O
 digits O
 
-PHP B-Language
+PHP B-Programming_Language
 demo O
 : O
 
@@ -57907,7 +57907,7 @@ https://stackoverflow.com/questions/10813825/ O
 
 
 In O
-Octave B-Language
+Octave B-Programming_Language
 ( O
 at O
 least O
@@ -58156,7 +58156,7 @@ in O
 the O
 park O
 in O
-C# B-Language
+C# B-Programming_Language
 but O
 I O
 would O
@@ -58680,7 +58680,7 @@ Question_URL O
 https://stackoverflow.com/questions/22948901/ O
 
 
-PYTHON B-Language
+PYTHON B-Programming_Language
 3.3 O
 
 I O
@@ -58868,7 +58868,7 @@ adjust O
 the O
 default O
 path O
-Python B-Language
+Python B-Programming_Language
 looks O
 for O
 modules O
@@ -59228,9 +59228,9 @@ of O
 1 O
 variable O
 with O
-javascript B-Language
+javascript B-Programming_Language
 into O
-PHP B-Language
+PHP B-Programming_Language
 . O
 
 So O
