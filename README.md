@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-In this repository, we implement a software entity typing framework, which takes only a few (e.g., 5-7) seed entities of each type as supervision and can be applied to predict unseen entity types.
+In this repository, we implement a software entity typing framework, which takes only a few (e.g., 5-7) seed entities of each type as supervision and can be applied to classify entities in a sentence to both seen and unseen types.
 
-The whole framework has two modules: entity set co-expansion and contrastive learning.
+The whole framework has two modules: **entity set co-expansion** and **contrastive learning**.
 
 ## Links
 
@@ -16,7 +16,7 @@ The whole framework has two modules: entity set co-expansion and contrastive lea
 
 ## Installation
 
-A GPUs is required to run both modules. We use one NVIDIA RTX A6000 in our experiments, where the entity set co-expansion module takes 8.5 hours, and the contrastive learning module takes 0.5 hours.
+A GPUs is required to run both modules. We use one NVIDIA RTX A6000 in our experiments, where the entity set co-expansion module takes ~8.5 hours, and the contrastive learning module takes ~0.5 hours.
 
 ### Dependency
 The code is written in Python 3.6. You can install the dependencies as follows:
@@ -28,15 +28,15 @@ cd contrastive/
 ## Entity Set Co-Expansion
 
 ### Corpus Preprocessing
-You need a large corpus to run entity set co-expansion. In our experiments, we use the training and validation sets (text only, no labels) of the [**StackOverflowNER**](https://github.com/jeniyat/StackOverflowNER) dataset and a sampled subcorpus of the **StackExchange** data dump. You can download them [**here**](https://drive.google.com/file/d/1CUaT91fpTzPrZ4ixwmWrcv0_U4u246C9/view?usp=share_link) (StackOverflowNER, ~1.1MB) and [**here**](https://drive.google.com/file/d/1vAp-8BdsrJc2bWGeZCeLjd2bEZpqwUrj/view?usp=share_link) (StackExchange, ~500MB), respectively.
+You need a large corpus to run entity set co-expansion. In our experiments, we use the training and validation sets (text only, no labels) of the [**StackOverflowNER**](https://github.com/jeniyat/StackOverflowNER) dataset and a sampled subcorpus of the [**StackExchange**](https://data.stackexchange.com/) data dump. You can download them [**here**](https://drive.google.com/file/d/1CUaT91fpTzPrZ4ixwmWrcv0_U4u246C9/view?usp=share_link) (StackOverflowNER, ~1.1MB) and [**here**](https://drive.google.com/file/d/1vAp-8BdsrJc2bWGeZCeLjd2bEZpqwUrj/view?usp=share_link) (StackExchange, ~500MB), respectively.
 
-After merging the two downloaded corpora, please refer to [HiExpan](https://github.com/mickeystroller/HiExpan) for the preprocessing code to get ```entity2id.txt``` and ```sentences.json```. 
+After merging the two downloaded corpora, please refer to [**HiExpan**](https://github.com/mickeystroller/HiExpan) for the preprocessing code to get ```entity2id.txt``` and ```sentences.json```. 
 
 **NOTE: You need to lowercase the merged corpus before preprocessing.**
 
 You can also used our preprocessed files ```entity2id.txt``` and ```sentences.json```, which can be downloaded [**here**](https://drive.google.com/file/d/1Q_K_LsbP0472CRXTop8NrhYKSBIwFbex/view?usp=share_link) (```entity2id.txt```, ~0.8MB) and [**here**](https://drive.google.com/file/d/1xmeTNtaTBjv5YacrTP5ZjNwQR_0nZ5Eh/view?usp=share_link) (```sentences.json```, ~3.7GB), respectively.
 
-Please put the two preprocessed files under the folder ```./corpus```.
+Please create a folder ```./corpus``` and put the two preprocessed files under it.
 
 
 ### Running
@@ -48,7 +48,7 @@ cd secoexpan/
 
 **NOTE: We use [BERTOverflow](https://huggingface.co/jeniya/BERTOverflow) as the pre-trained language model in this module. You can follow our choice or use any other BERT-based language model. Either way, please change the ```--model``` argument in ```secoexpan/run.sh``` accordingly.**
 
-After running the code, you can find the entity set co-expansion result in ```data/seeds_secoexpan_50.txt``` in the following format:
+After running the code, you will find the entity set co-expansion result in ```data/seeds_secoexpan_50.txt``` in the following format:
 ```
 application	nvda
 application	opera_mini
@@ -64,7 +64,7 @@ data_type	int
 ...
 ```
 
-You can find the pseudo training and validation sets in ```data/train_stackoverflow_pseudo.txt``` and ```data/valid_stackoverflow_pseudo.txt```, respectively, in the following CoNLL-2003 BIO format:
+You will also find the pseudo training and validation sets in ```data/train_stackoverflow_pseudo.txt``` and ```data/valid_stackoverflow_pseudo.txt```, respectively, in the following CoNLL-2003 BIO format:
 ```
 I O
 've O
@@ -89,7 +89,7 @@ cd contrastive/
 
 **NOTE: We use [BERTOverflow](https://huggingface.co/jeniya/BERTOverflow) as the pre-trained language model in this module. You can follow our choice or use any other BERT-based language model. Either way, please change the ```--bert_model``` argument in ```contrastive/run.sh``` accordingly.**
 
-After running the code, you can find the entity typing result in ```output/prediction.json```, where each line is a json record:
+After running the code, you will find the entity typing result in ```output/prediction.json```, where each line is a json record:
 ```
 {
   "text": "I am using custom adapter which I use for my ListView . After creating ArrayList",
@@ -99,7 +99,7 @@ After running the code, you can find the entity typing result in ```output/predi
 }
 ```
 
-You can find the precision, recall, and F1 score of each entity type, as well as the overall Micro-F1 and Macro-F1 scores in ```output/report.txt```:
+You will also find the precision, recall, F1, and the number of testing samples of each entity type, as well as the overall Micro-F1 and Macro-F1 scores in ```output/report.txt```:
 ```
 application	0.8827160493827161	0.35135135135135137	0.5026362038664323	407
 data_structure	0.7692307692307693	0.728744939271255	0.7484407484407485	247
@@ -153,7 +153,11 @@ tables
 ```
 You can rename your own training and validation sets. Make sure you change the ```--corpus``` argument in ```secoexpan/run.sh``` and the ```train``` and ```valid``` arguments in ```contrastive/run.sh``` accordingly.
 
-(3) ```test_stackoverflow.txt```, ```test_stackoverflow_newtype.txt```, ```test_github.txt```, and ```test_github_newtype.txt```: Labeled testing sets from the [**StackOverflowNER**](https://github.com/jeniyat/StackOverflowNER) dataset. The two files with "stackoverflow" are texts from StackOverflow QA threads; the two files with "github" are texts from GitHub issues. The two files without "newtype" contain ground-truth labels of 10 seen types (i.e., for which 5-7 seed entities are provided in ```seeds.txt```, including application, data structure, data type, device, library, library class, operating system, programming language, user interface element, and website); the two files with "newtype" contain ground-truth labels of 10 seen types and 5 unseen types (i.e., without any seed entities provided, including algorithm, file type, html xml tag, value, and version). The files are the following CoNLL-2003 BIO format:
+(3) ```test_stackoverflow.txt```, ```test_stackoverflow_newtype.txt```, ```test_github.txt```, and ```test_github_newtype.txt```: Labeled testing sets from the [**StackOverflowNER**](https://github.com/jeniyat/StackOverflowNER) dataset. 
+
+The two files with "stackoverflow" are texts from StackOverflow QA threads; the two files with "github" are texts from GitHub issues. 
+
+The two files without "newtype" contain ground-truth labels of 10 seen types (i.e., for which 5-7 seed entities are provided in ```seeds.txt```, including **application**, **data structure**, **data type**, **device**, **library**, **library class**, **operating system**, **programming language**, **user interface element**, and **website**); the two files with "newtype" contain ground-truth labels of 10 seen types and 5 unseen types (i.e., without any seed entities provided, including **algorithm**, **file type**, **html xml tag**, **value**, and **version**). The files are in the following CoNLL-2003 BIO format:
 ```
 I O
 am O
