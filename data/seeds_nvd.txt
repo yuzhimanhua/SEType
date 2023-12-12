@@ -1,0 +1,5 @@
+application chrome thunderbird itunes flash_player office
+edition enterprise express pro business professional
+operating_system windows windows_7 ios solaris android
+relevant_term memory xss inject buffer_overflow commands
+vendor oracle microsoft apple google cisco vmware
