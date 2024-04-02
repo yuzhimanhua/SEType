@@ -181,18 +181,20 @@ You can rename your own testing sets. Make sure you change the ```test``` argume
 
 ## Citation
 ```
-@article{zhang2024seed,
+@inproceedings{zhang2024seed,
   title={Seed-Guided Fine-Grained Entity Typing in Science and Engineering Domains},
   author={Zhang, Yu and Zhang, Yunyi and Shen, Yanzhen and Deng, Yu and Popa, Lucian and Shwartz, Larisa and Zhai, ChengXiang and Han, Jiawei},
-  journal={arXiv preprint arXiv:2401.13129},
+  booktitle={AAAI'24},
+  pages={19606--19614},
   year={2024}
 }
 ```
 ```
-@article{zhang2022entity,
+@inproceedings{zhang2022entity,
   title={Entity Set Co-Expansion in StackOverflow},
   author={Zhang, Yu and Zhang, Yunyi and Jiang, Yucheng and Michalski, Martin and Deng, Yu and Popa, Lucian and Zhai, ChengXiang and Han, Jiawei},
-  journal={arXiv preprint arXiv:2212.02271},
+  booktitle={IEEE BigData'22},
+  pages={4792--4795},
   year={2022}
 }
 ```
